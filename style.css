@@ -1,0 +1,13 @@
+body {
+	background: rgb(66, 66, 66);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 95vh;
+	text-align: center;
+	color: aliceblue;
+}
+#id {
+	font-size: 5rem;
+	color: darkgoldenrod;
+}
